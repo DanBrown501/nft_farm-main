@@ -1,6 +1,7 @@
 {
   "name": "nft-farm",
   "version": "0.1.0",
+  "homepage": "https://danbrown501.github.io/nft_farm-main/",
   "description": "Nft farm app. Users stake mock dai tokens in exchange for points they can use to redeem nfts",
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.1",
