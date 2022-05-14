@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.db9b5483.chunk.css",
-    "main.js": "/static/js/main.656830a5.chunk.js",
-    "main.js.map": "/static/js/main.656830a5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0189c358.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0189c358.js.map",
-    "static/css/2.9ec07ce6.chunk.css": "/static/css/2.9ec07ce6.chunk.css",
-    "static/js/2.50c09cf0.chunk.js": "/static/js/2.50c09cf0.chunk.js",
-    "static/js/2.50c09cf0.chunk.js.map": "/static/js/2.50c09cf0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.9ec07ce6.chunk.css.map": "/static/css/2.9ec07ce6.chunk.css.map",
-    "static/css/main.db9b5483.chunk.css.map": "/static/css/main.db9b5483.chunk.css.map",
-    "static/js/2.50c09cf0.chunk.js.LICENSE.txt": "/static/js/2.50c09cf0.chunk.js.LICENSE.txt"
+    "main.css": "/nft_farm-main/static/css/main.db9b5483.chunk.css",
+    "main.js": "/nft_farm-main/static/js/main.38c373ee.chunk.js",
+    "main.js.map": "/nft_farm-main/static/js/main.38c373ee.chunk.js.map",
+    "runtime-main.js": "/nft_farm-main/static/js/runtime-main.05f61d10.js",
+    "runtime-main.js.map": "/nft_farm-main/static/js/runtime-main.05f61d10.js.map",
+    "static/css/2.9ec07ce6.chunk.css": "/nft_farm-main/static/css/2.9ec07ce6.chunk.css",
+    "static/js/2.50c09cf0.chunk.js": "/nft_farm-main/static/js/2.50c09cf0.chunk.js",
+    "static/js/2.50c09cf0.chunk.js.map": "/nft_farm-main/static/js/2.50c09cf0.chunk.js.map",
+    "index.html": "/nft_farm-main/index.html",
+    "static/css/2.9ec07ce6.chunk.css.map": "/nft_farm-main/static/css/2.9ec07ce6.chunk.css.map",
+    "static/css/main.db9b5483.chunk.css.map": "/nft_farm-main/static/css/main.db9b5483.chunk.css.map",
+    "static/js/2.50c09cf0.chunk.js.LICENSE.txt": "/nft_farm-main/static/js/2.50c09cf0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0189c358.js",
+    "static/js/runtime-main.05f61d10.js",
     "static/css/2.9ec07ce6.chunk.css",
     "static/js/2.50c09cf0.chunk.js",
     "static/css/main.db9b5483.chunk.css",
-    "static/js/main.656830a5.chunk.js"
+    "static/js/main.38c373ee.chunk.js"
   ]
 }
