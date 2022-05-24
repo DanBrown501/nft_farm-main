@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nft_farm-main/static/css/main.db9b5483.chunk.css",
-    "main.js": "/nft_farm-main/static/js/main.38c373ee.chunk.js",
-    "main.js.map": "/nft_farm-main/static/js/main.38c373ee.chunk.js.map",
+    "main.css": "/nft_farm-main/static/css/main.823e55bb.chunk.css",
+    "main.js": "/nft_farm-main/static/js/main.101ab758.chunk.js",
+    "main.js.map": "/nft_farm-main/static/js/main.101ab758.chunk.js.map",
     "runtime-main.js": "/nft_farm-main/static/js/runtime-main.05f61d10.js",
     "runtime-main.js.map": "/nft_farm-main/static/js/runtime-main.05f61d10.js.map",
     "static/css/2.9ec07ce6.chunk.css": "/nft_farm-main/static/css/2.9ec07ce6.chunk.css",
-    "static/js/2.50c09cf0.chunk.js": "/nft_farm-main/static/js/2.50c09cf0.chunk.js",
-    "static/js/2.50c09cf0.chunk.js.map": "/nft_farm-main/static/js/2.50c09cf0.chunk.js.map",
+    "static/js/2.62f3ba2b.chunk.js": "/nft_farm-main/static/js/2.62f3ba2b.chunk.js",
+    "static/js/2.62f3ba2b.chunk.js.map": "/nft_farm-main/static/js/2.62f3ba2b.chunk.js.map",
     "index.html": "/nft_farm-main/index.html",
     "static/css/2.9ec07ce6.chunk.css.map": "/nft_farm-main/static/css/2.9ec07ce6.chunk.css.map",
-    "static/css/main.db9b5483.chunk.css.map": "/nft_farm-main/static/css/main.db9b5483.chunk.css.map",
-    "static/js/2.50c09cf0.chunk.js.LICENSE.txt": "/nft_farm-main/static/js/2.50c09cf0.chunk.js.LICENSE.txt"
+    "static/css/main.823e55bb.chunk.css.map": "/nft_farm-main/static/css/main.823e55bb.chunk.css.map",
+    "static/js/2.62f3ba2b.chunk.js.LICENSE.txt": "/nft_farm-main/static/js/2.62f3ba2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.05f61d10.js",
     "static/css/2.9ec07ce6.chunk.css",
-    "static/js/2.50c09cf0.chunk.js",
-    "static/css/main.db9b5483.chunk.css",
-    "static/js/main.38c373ee.chunk.js"
+    "static/js/2.62f3ba2b.chunk.js",
+    "static/css/main.823e55bb.chunk.css",
+    "static/js/main.101ab758.chunk.js"
   ]
 }
